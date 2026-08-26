@@ -66,6 +66,13 @@ An interactive Power BI dashboard analyzing 4 years (2015–2018) of Superstore 
 
 ---
 
+## Related
+
+See the query-first exploration of this same dataset: **[Superstore SQL Exploration](https://github.com/Pratham090909/superstore_sql-exploration)** — KPI derivation and business questions answered directly via SQL (DuckDB), as a companion to this visual dashboard.
+
+---
+
 ## Notes
 
 Built as a hands-on project to practice the full Power BI workflow: data modeling, DAX measure design, and executive-level dashboard layout — including debugging real issues along the way (aggregation defaults on the KPI visual, date-axis granularity, text-type calculated columns) rather than a from-a-template build.
+
